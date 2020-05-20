@@ -1,0 +1,116 @@
+ *{
+   margin: 0;
+   padding:0;
+   box-sizing: border-box;
+  }
+
+   body{
+
+   background: #333;
+  }
+
+
+  #div1 {
+    
+     background:#D3D3D3;
+   text-align: center;
+   width: 400px;
+   margin: 80px auto;
+   padding: 30px;
+  
+  }
+  button {
+
+  	 width: 50px
+  }
+ .btn{
+  width: 25%;
+  padding: 5px;
+  float: left;
+ height:59px
+  }
+
+#myinput{
+
+	width: 339px;
+height:55px;
+color: #CCFFCC
+background:#00BFFF;
+}
+
+
+#btn4{
+
+background:#800080;
+     color: #000000;
+   font-size: 20px;
+
+  }
+
+
+#btn8{
+
+background: #FFE4C4;
+      color: #000000;
+   font-size: 20px;
+
+  }
+
+
+#btn12{
+
+background: #00BFFF;
+      color: #000000;
+   font-size: 20px;
+
+  }
+
+
+#btn16{
+
+background: #FFFF00;
+   color: #000000;
+   font-size: 20px;
+
+  }
+
+ #btn14{
+
+   background: 	#FF0000;
+   color: #000000;
+   font-size: 20px;
+
+  }
+
+
+ #btn15{
+
+   background: 	#808080;
+   color: #000000;
+   font-size: 20px;
+
+  }
+
+#div1{
+   content: '';
+   display: table;
+   clear: both;
+  
+  }
+   form{
+   padding:5px;
+   margin-bottom: 15px;
+  }
+
+  .back{
+
+background:;
+  }
+
+
+  #pic1{
+
+background-image: url(./img/pic3.jpg);
+background-attachment: fixed;
+
+  }
